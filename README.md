@@ -50,8 +50,8 @@ The analysis is based on **synthetic relational data** representing multiple hea
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA) using visualizations  
 - KPI calculation (revenue, volume, averages, utilization)  
-- Trend analysis (monthly, treatment-wise, and doctor-wise)  
-- Business-focused analytical insights  
+- Trend analysis across time periods, treatments, and doctor specializations
+- Business-focused analytical and operational insights
 
 ---
 
@@ -78,10 +78,10 @@ The analysis is based on **synthetic relational data** representing multiple hea
 
 ## 🔚 Conclusion
 This project demonstrates the practical application of data analysis techniques
-to a healthcare business scenario, with a strong focus on exploratory analysis,
-KPI evaluation, and business-oriented decision-making.  
-The analysis emphasizes deriving actionable insights from data rather than
-machine learning, aligning with real-world healthcare analytics use cases.
+to a healthcare business scenario, with a strong focus on data exploration,
+KPI evaluation, and business-oriented decision-making.
+The analysis highlights how structured healthcare data can be transformed
+into meaningful insights to support operational and strategic decisions.
 
 ---
 

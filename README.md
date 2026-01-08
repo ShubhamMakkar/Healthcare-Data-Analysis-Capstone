@@ -2,8 +2,8 @@
 
 ## 📌 Project Overview
 This project is an end-to-end **Healthcare Data Analysis Capstone** developed using **Python**.
-It simulates healthcare operations across **multiple hospitals / branches** and focuses on
-deriving **business-oriented insights** from structured healthcare data.
+It simulates healthcare operations across **multiple hospitals and branches** and focuses on
+generating **business-oriented insights** from structured healthcare data.
 
 > ⚠️ **Important Note**  
 > The dataset used in this project is **synthetically generated** for learning and portfolio purposes.
@@ -12,8 +12,8 @@ deriving **business-oriented insights** from structured healthcare data.
 ---
 
 ## 🎯 Business Objective
-The objective of this project is to analyze healthcare operational data in order to:
-- Understand patient visit and treatment patterns
+The objective of this project is to analyze healthcare operational data to:
+- Understand patient visits and treatment patterns
 - Analyze revenue and billing behavior
 - Evaluate doctor and treatment utilization
 - Calculate key healthcare KPIs
@@ -22,13 +22,13 @@ The objective of this project is to analyze healthcare operational data in order
 ---
 
 ## 🗂️ Data Source & Nature of Dataset
-The project is based on **synthetic relational data** representing multiple healthcare entities:
+The analysis is based on **synthetic relational data** representing multiple healthcare entities:
 
-- **Patients** – patient demographics and identifiers  
+- **Patients** – patient demographic information  
 - **Doctors** – doctor specialization and hospital association  
-- **Appointments** – visit scheduling and timelines  
-- **Treatments** – treatment types and utilization  
-- **Billing** – charges, revenue, and billing metrics  
+- **Appointments** – patient visit scheduling and timelines  
+- **Treatments** – treatment types and utilization details  
+- **Billing** – billing amounts, charges, and revenue metrics  
 
 > 📌 Dataset files are **not uploaded intentionally**.  
 > All outputs, visualizations, and KPIs are already generated and saved within the notebook.
@@ -49,14 +49,14 @@ The project is based on **synthetic relational data** representing multiple heal
 - Data loading and validation  
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA) using visualizations  
-- KPI calculation (Revenue, Volume, Averages, Utilization)  
-- Trend analysis (Monthly, Treatment-wise, Doctor-wise)  
+- KPI calculation (revenue, volume, averages, utilization)  
+- Trend analysis (monthly, treatment-wise, and doctor-wise)  
 - Business-focused analytical insights  
 
 ---
 
 ## 📁 Repository Contents
-- `Healthcare_Data_Analysis_Capstone.ipynb` – Fully executed notebook with outputs  
+- `Healthcare_Data_Analysis_Capstone.ipynb` – Fully executed Jupyter Notebook with outputs  
 - `Healthcare_Data_Analysis_Capstone.html` – Static HTML version for easy viewing  
 
 ---
